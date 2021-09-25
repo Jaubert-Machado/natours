@@ -35,6 +35,7 @@ Along this project I learned things like:
   <li>BEM for naming and organizing classes.</li>
   <li>and a lot more.</li>
   </p>
+</ul>  
 
 <h1 id="roadmap">Roadmap</h1>
 
