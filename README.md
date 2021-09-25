@@ -25,7 +25,16 @@
 
 <h1 id="objetivo">Goal</h1>
 
-<p> This is my first project as a front-end web developer, my goal with it was to learn new techniques and workflow, the goal is to create a beautiful and light website for this naturalistic tour company. </p>
+<p> This is my first project as a front-end web developer, my goal with it was to learn new techniques and workflow, the goal is to create a beautiful and light website for this naturalistic tour company.
+
+Along this project I learned things like: 
+<ul>
+  <li>How to implement and use SASS and 7-1 in a work environment.</li>
+  <li>Some cool animations and tricks.</li>
+  <li>How CSS works behind the scenes.</li>
+  <li>BEM for naming and organizing classes.</li>
+  <li>and a lot more.</li>
+  </p>
 
 <h1 id="roadmap">Roadmap</h1>
 
