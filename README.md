@@ -24,7 +24,7 @@
 
 <h1 id="objetivo">Goal</h1>
 
-<p> This is my first project as a front-end web developer, my goal with it was to learn new techniques and workflow, the goal is to create a beautiful and light website for this naturalistic tour company.
+<p> This is my first project as a front-end web developer, my goal with it was to learn new techniques and workflow, my objective was to create a beautiful and light website for this naturalistic tour company.
 
 Along this project I learned things like: 
 <ul>
