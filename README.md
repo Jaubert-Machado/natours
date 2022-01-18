@@ -15,7 +15,6 @@
   
 <p align="center">
  <a href="#objetivo">Goal</a> •
- <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Technologies</a> • 
   <a href="#demo">Project demo</a> • 
   <a href="#autor">Author</a> • 
@@ -36,10 +35,6 @@ Along this project I learned things like:
   <li>and a lot more.</li>
   </p>
 </ul>  
-
-<h1 id="roadmap">Roadmap</h1>
-
-<p> I will continue to improve the site as I learn new technologies and techniques. </p>
 
 <h1 id="tecnologias">Technologies </h1>
 
